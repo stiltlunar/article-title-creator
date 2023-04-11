@@ -1,4 +1,4 @@
-# Article Title Creator
+# SEO Title Maker
 
 ## Purpose
 
